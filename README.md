@@ -1,12 +1,12 @@
 Insurance Cost Prediction 
-Objective:
+
 Implemented a machine learning model for predicting insurance costs based on demographic and lifestyle factors.
 
 Technologies Used:
 
 Python
 Libraries: NumPy, pandas, matplotlib, seaborn, scikit-learn
-Project Overview:
+
 
 Conducted exploratory data analysis (EDA) to understand the distribution of key features.
 Visualized essential aspects, including the age and sex distribution, using seaborn and matplotlib.
